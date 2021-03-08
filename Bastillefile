@@ -1,1 +1,3 @@
 PKG mailhog
+SYSRC mailhog_enable=TRUE
+SERVICE mailhog start
